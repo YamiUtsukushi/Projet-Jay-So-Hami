@@ -75,7 +75,7 @@ const Formulaire = () => {
           type="text" 
           id="prenom" 
           name="prenom"  
-          placeholder="ecrit imbécile" 
+          placeholder="ajoute un emoji" 
           onChange={handleChange}  
           value={prenom}
         />
